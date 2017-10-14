@@ -44,7 +44,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 public class MainCamera extends AppCompatActivity {
-    private static final String TAG = "AndroidCameraApi";
+    private static final String TAG = "MainCamera";
     private Button takePictureButton;
     private TextureView textureView;
     private static final SparseIntArray ORIENTATIONS = new SparseIntArray();

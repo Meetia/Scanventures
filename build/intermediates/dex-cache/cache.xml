@@ -12,6 +12,33 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/JSU/Documents/Projects/Scanventures/app/libs/aws-android-sdk-ddb-2.6.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de4613ba9951c5cdf952d8d882f1cef2b1bc060f">
+        <dex dex="/Users/JSU/Documents/Projects/Scanventures/app/build/intermediates/transforms/dex/debug/folders/1000/2/aws-android-sdk-ddb-2.6.5_eaad8c46eb97fe8f6901cb0542ab6a2229e834db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JSU/Documents/Projects/Scanventures/app/libs/aws-android-sdk-core-2.6.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0e2566411a6c459f86dd6f0a56bb192071771b1c">
+        <dex dex="/Users/JSU/Documents/Projects/Scanventures/app/build/intermediates/transforms/dex/debug/folders/1000/2/aws-android-sdk-core-2.6.5_9aae5f7f4023b1b8d075c60fa01f77ce4b4f4b36/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JSU/Documents/Projects/Scanventures/app/libs/aws-android-sdk-s3-2.6.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5df400746d54649cf9ea2d3dd0dbc2848a92a82">
+        <dex dex="/Users/JSU/Documents/Projects/Scanventures/app/build/intermediates/transforms/dex/debug/folders/1000/2/aws-android-sdk-s3-2.6.5_8ee04dc849672893cb5d9aed2b5172a127f3e006/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/JSU/Documents/Projects/Scanventures/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
